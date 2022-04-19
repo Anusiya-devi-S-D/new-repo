@@ -1,0 +1,10 @@
+"use strict";
+var app=angular.module("urlConfig");
+  var Url = {
+      'projectAnalysis_url':'http://34.69.84.192:8007'
+      'projectAnalysis_url':'http://34.69.84.193:8007'
+      'projectAnalysis_url':'http://34.69.84.194:8007'
+      'projectAnalysis_url':'http://12.34.56.789:8007'
+      }
+  return Url;
+  }
